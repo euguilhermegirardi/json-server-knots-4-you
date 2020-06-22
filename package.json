@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/euguilhermegirardi/json-server-knots-4-you/issues"
   },
-  "homepage": "https://github.com/euguilhermegirardi/json-server-knots-4-you#readme"
+  "homepage": "https://github.com/euguilhermegirardi/json-server-knots-4-you#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
